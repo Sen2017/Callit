@@ -1,3 +1,3 @@
-function click() {
+function hi() {
   console.log("Hi")
 }
